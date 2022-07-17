@@ -1498,6 +1498,7 @@ body {
         color: white;
         &:hover {
             color: $color-aqua;
+            cursor: pointer;
         }
 
         @media (min-width: 320px) {
